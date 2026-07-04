@@ -15,4 +15,4 @@ print(f"If you think that i am student, you are {is_student}, but if you think t
 print(f"But InshAllah i will work. Is there problem? {nothing}.")
 print(f"When i was {first}, i learned {languages[2]}, when i was {second}, i learned {languages[1]}.")
 print(f"But now i learn {languages[0]} to be agentic ai engineer.")
-print(f"And I have goal, this is {me['goal']}.")
+print(f"And I have goal, this is {me['goal']}.") 
